@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gpssss"
+    android:alpha="0.9"
+    tools:context="com.example.alisi.mapalarm.MainActivity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="18dp"
+        android:text="Settings" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView5"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="14dp"
+        android:ems="10"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:inputType="textPersonName"
+        android:visibility="invisible"
+        android:hint="Name" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:textColor="#000"
+        android:inputType="textPersonName"
+        android:hint="Message"
+        android:visibility="invisible"
+        android:layout_alignStart="@+id/editText3" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_alignStart="@+id/editText4"
+        android:layout_below="@+id/editText4"
+        android:layout_marginTop="26dp"
+        android:text="Select Distance" />
+
+    <SeekBar
+        android:id="@+id/seekBar2"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView6"
+        android:layout_below="@+id/textView6"
+        android:layout_marginTop="22dp"
+        android:max="4000"
+        android:progress="0"
+        android:layout_toStartOf="@+id/tvDistance" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:text="Other Options"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/seekBar"
+        android:layout_alignStart="@+id/tvVibrateRange" />
+
+    <CheckBox
+        android:id="@+id/vibration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vibration"
+        android:checked="true"
+        android:layout_below="@+id/textView7"
+        android:layout_alignStart="@+id/textView7" />
+
+    <TextView
+        android:id="@+id/tvDistance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:text="1000 mt"
+        android:layout_alignTop="@+id/seekBar2"
+        android:layout_alignEnd="@+id/tvVibrate" />
+
+    <CheckBox
+        android:id="@+id/ring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ring"
+        android:checked="true"
+        android:layout_alignBaseline="@+id/vibration"
+        android:layout_alignBottom="@+id/vibration"
+        android:layout_alignEnd="@+id/textView6" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Map"
+        android:layout_below="@+id/vibration"
+        android:layout_alignStart="@+id/vibration"
+        android:layout_marginTop="14dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_alignBaseline="@+id/button8"
+        android:layout_alignBottom="@+id/button8"
+        android:layout_alignEnd="@+id/seekBar2" />
+
+    <TextView
+        android:id="@+id/tvVibrateRange"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:text="Select Vibrate Range"
+        android:layout_below="@+id/tvDistance"
+        android:layout_alignStart="@+id/seekBar2" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        style="@style/Widget.AppCompat.SeekBar.Discrete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_below="@+id/tvVibrateRange"
+        android:layout_marginTop="12dp"
+        android:max="5"
+        android:progress="0"
+        android:layout_toStartOf="@+id/tvDistance" />
+
+    <TextView
+        android:id="@+id/tvVibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:text="0 sn"
+        android:layout_alignBottom="@+id/seekBar"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="13dp" />
+
+
+</RelativeLayout>
