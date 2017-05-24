@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\09d4176e2197db448b9791ecac630da988c1d4be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_142c37d106900aeb986acbdbc2c64ce2a93a551d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\7f680268d7fb69b561f69fbb405718eeccd33646\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_61abbec79e55ad53a68abe6d0c626bf3124b8d11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\6c500983b3fb8fd1173737ea40a7d9603ccba809\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_72d1308fdad4a91882a7f25be8dfb81ab07ad16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2e3f7bbba17c57096a48cc2ed6b539464ef724d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\0dba1a145f47a90795d7dc255e091658aa51507a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_4015b815480d2561f33643c0fd65e7ceb17e62ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\2c5f9b0896377cc2e428daeea3eec2eb0f5ff56a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_f955bad411f861f0fac534d90b6e898504028465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\4d0446359288bb29f0e6b57869586b45fdcd7209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_14673d790bb2042ae8330abe80eb3788b70a1ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\7f95ae501c17c64388e9edbe8738a89f09c90b82\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_bc0ccb04b55656097b5530a9baf52db0155b9f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_762974f087c5d1d7175d593dab4e23d42988de15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\a0ff8aadf06dfe63c86ebd691b44703482082ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_6add6c87f25b1ae1a0ea6ce391c4b505d63f9751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\0d734926f31c17a69ef498a2af1aa5e85725be12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_3f873d589bd18895ce663097f40bc48b9b01fd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\d579120e26227e201db224c7d1d044e7a3a3e82a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_82a27759f751439ca3f0b7fee3489bc31162355a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\f0c105bae0bb885615779ca9169dd2dcdfde3cd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_348e8dff24e9955b8fd9ee6ae0332932010fd637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\3d3df8b0c1b2350d1f7530aae84e80ff8c05ffc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_4995dac38173792ee746a99668f0766abbcbcdfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\da8fb13269dec9eab3116e5c9089f9abc8573628\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_f8864d2ec029d69d56ce58b54721940791e4db80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\045534faafffa0cf1f39fc1a824408c545477476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_e51b518eb9b684f933f5df277b2cef4778c57765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Omer\.android\build-cache\084ac4b382b9af95d92723f139570aad7e8c41b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Omer\AndroidStudioProjects\MapAlarm-21-05-2017\app\build\intermediates\pre-dexed\debug\classes_cfaa387f77392bed6752ace29ffea9acb7ac49c4.jar" />
+    </item>
+
+</items>
