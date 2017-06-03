@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gpssss"
+    tools:context="com.example.alisi.mapalarm.StartingActivity">
+
+    <TextView
+        android:id="@+id/MapAlarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:text="Map Alarm"
+        android:textStyle="bold"
+        android:textSize="50sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/SelectNewLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:text="Select Location"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/SaveNewLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save New Location"
+        android:layout_below="@+id/SavedLocation"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp" />
+
+    <Button
+        android:id="@+id/SavedLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/SaveNewLocation"
+        android:layout_centerVertical="true"
+        android:text="Saved Location" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/alarm"
+        android:layout_below="@+id/MapAlarm"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/SavedLocation" />
+</RelativeLayout>

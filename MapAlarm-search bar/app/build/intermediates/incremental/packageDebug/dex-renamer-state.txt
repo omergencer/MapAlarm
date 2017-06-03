@@ -1,7 +1,0 @@
-#Sun May 21 20:58:41 EEST 2017
-base.0=C\:\\Users\\Omer\\Desktop\\MapAlarm-21-05-2017(calisan son)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_260753ae459313300d1d4af9a2b88f0dd47a05f9
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Omer\\Desktop\\MapAlarm-21-05-2017(calisan son)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee8ed5d54b3880d4cad5a7a751b5ace9fa4f5cb9\\classes.dex
-base.1=C\:\\Users\\Omer\\Desktop\\MapAlarm-21-05-2017(calisan son)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee8ed5d54b3880d4cad5a7a751b5ace9fa4f5cb9
-file.0=C\:\\Users\\Omer\\Desktop\\MapAlarm-21-05-2017(calisan son)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_260753ae459313300d1d4af9a2b88f0dd47a05f9\\classes.dex

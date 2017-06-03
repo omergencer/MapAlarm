@@ -1,0 +1,7 @@
+#Sat Jun 03 02:59:46 EEST 2017
+base.0=C\:\\Users\\Omer\\Desktop\\MapAlarm-search bar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1470c648775bb5f61c040c695e03d1e820c7c67b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Omer\\Desktop\\MapAlarm-search bar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_817023ed65a0f1aeaa5b97347116cbce293e82f9\\classes.dex
+base.1=C\:\\Users\\Omer\\Desktop\\MapAlarm-search bar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_817023ed65a0f1aeaa5b97347116cbce293e82f9
+file.0=C\:\\Users\\Omer\\Desktop\\MapAlarm-search bar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1470c648775bb5f61c040c695e03d1e820c7c67b\\classes.dex
